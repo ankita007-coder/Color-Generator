@@ -9,3 +9,6 @@ Copy Color Codes: You can copy the color codes to your clipboard by clicking on 
 
 Save Your Palette: If you like the palette you've generated, you can save it for future reference.
 
+## Demo
+
+You can see a live demo of the Birthday Reminder Website [here](https://colorr-palette-generator.netlify.app).
